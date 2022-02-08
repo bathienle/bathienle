@@ -1,8 +1,15 @@
 <h1 align="center"> Hi there, I'm Ba Thien :wave: </h1>
 
+<h3 align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-004687?style=flat&logo=LinkedIn)](https://be.linkedin.com/in/bathien-le)
+[![GitHub](https://img.shields.io/badge/-GitHub-004687?style=flat&logo=GitHub)](https://github.com/bathienle)
+
+</h3>
+
 ## :test_tube: Tech stack
 
-![Python](https://img.shields.io/badge/-Python-004687?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-004687?style=flat&logo=Python)
 ![C](https://img.shields.io/badge/-C-004687?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-004687?style=flat&logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-004687?style=flat&logo=Java)
