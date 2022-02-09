@@ -7,6 +7,11 @@
 
 </h3>
 
+* :briefcase: Currently working as a Software Engineer in the [Cytomine team](https://uliege.cytomine.org/) at the [University of Liège](https://www.uliege.be/) in Belgium.
+    * :bulb: [Cytomine](https://doc.cytomine.org/) is a web application for collaborative analysis of multi-gigapixel images.
+* :mag: Interested in Machine and Deep Learning and Computer Vision.
+
+
 ## :test_tube: Tech stack
 
 ![Python](https://img.shields.io/badge/-Python-004687?style=flat&logo=Python)
