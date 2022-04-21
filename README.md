@@ -7,10 +7,12 @@
 
 </h3>
 
-* :briefcase: Currently working as a Software Engineer in the [Cytomine team](https://uliege.cytomine.org/) at the [University of Liège](https://www.uliege.be/) in Belgium.
+* :briefcase: Currently working as a Research Software Engineer in the [Cytomine team](https://uliege.cytomine.org/) at the [University of Liège](https://www.uliege.be/) in Belgium.
     * :bulb: [Cytomine](https://doc.cytomine.org/) is a web application for collaborative analysis of multi-gigapixel images.
-* :mag: Interested in Machine and Deep Learning and Computer Vision.
-
+* :mag: Interested in 
+    * :world_map: Big imaging data management & visualisation
+    * :brain: Deep learning in digital pathology
+    * :robot: Machine and Deep Learning and Computer Vision.
 
 ## :test_tube: Tech stack
 
@@ -27,9 +29,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-004687?style=flat&logo=PyTorch)
 ![NumPy](https://img.shields.io/badge/-NumPy-004687?style=flat&logo=NumPy)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-004687?style=flat&logo=OpenCV)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-004687?style=flat&logo=scikit-learn)
 
-![Atom](https://img.shields.io/badge/-Atom-004687?style=flat&logo=Atom)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-004687?style=flat&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-004687?style=flat&logo=IntelliJ-IDEA)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-004687?style=flat&logo=PyCharm)
@@ -37,5 +37,5 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<a><img width=46.5% align="left" src="https://github-readme-stats.vercel.app/api?username=bathienle&count_private=true&show_icons=true&theme=tokyonight" /></a>
-<a><img width=45.5% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathienle&layout=compact&theme=tokyonight" /></a>
+<a><img width=52% align="left" src="https://github-readme-stats.vercel.app/api?username=bathienle&count_private=true&show_icons=true&theme=tokyonight" /></a>
+<a><img width=43% align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathienle&layout=compact&theme=tokyonight" /></a>
