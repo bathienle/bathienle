@@ -16,17 +16,27 @@
 
 ## :test_tube: Tech stack
 
-![Python](https://img.shields.io/badge/-Python-004687?style=flat&logo=Python)
-![C](https://img.shields.io/badge/-C-004687?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-004687?style=flat&logo=C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-004687?style=flat&logo=Java)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-original.svg" alt="c" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" alt="java" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+</p>
 
-![Git](https://img.shields.io/badge/-Git-004687?style=flat&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-004687?style=flat&logo=GitHub)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" />
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-004687?style=flat&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-004687?style=flat&logo=IntelliJ-IDEA)
-![WebStorm](https://img.shields.io/badge/-WebStorm-004687?style=flat&logo=WebStorm)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="git" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/github/github-original.svg" alt="github" width="50" height="50" />
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="50" height="50" />
+</p>
 
 ## :chart_with_upwards_trend: GitHub Stats
 
