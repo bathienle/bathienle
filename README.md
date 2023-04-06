@@ -1,11 +1,6 @@
-<h1 align="center"> Hi there, I'm Ba Thien :wave: </h1>
+<img src="images/banner.png" alt="banner" />
 
-<h3 align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-004687?style=flat&logo=LinkedIn)](https://be.linkedin.com/in/bathien-le)
-[![GitHub](https://img.shields.io/badge/-GitHub-004687?style=flat&logo=GitHub)](https://github.com/bathienle)
-
-</h3>
+## :information_source: About me
 
 * :briefcase: Currently working as a Research Software Engineer in the [Cytomine team](https://uliege.cytomine.org/) at the [University of Liège](https://www.uliege.be/) in Belgium.
     * :bulb: [Cytomine](https://doc.cytomine.org/) is a web application for collaborative analysis of multi-gigapixel images.
